@@ -3,5 +3,7 @@ name = "janet"
 version = "0.1.0"
 authors = ["Andrew Chambers <ac@acha.ninja>"]
 edition = "2018"
+description = "Higher level janet bindings."
+license-file = "LICENSE"
 
 [dependencies]
